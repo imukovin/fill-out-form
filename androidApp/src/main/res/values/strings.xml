@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Формирование заявления</string>
+    <string name="description">Заполните все поля ниже, а мы сформируем заявление в PDF формате!</string>
+    <string name="judicial_sector">Наименование судебного участка</string>
+    <string name="governing_body">Наименование управляющей организации</string>
+    <string name="address">Адрес</string>
+    <string name="first_second_name">Фамилия Имя Отчество</string>
+    <string name="birthday">Дата рождения должника</string>
+    <string name="birthplace">Место рождения</string>
+    <string name="workplace">Место работы</string>
+    <string name="snils">СНИЛС</string>
+    <string name="inn">ИНН</string>
+    <string name="save_to_pdf">Сохранить в pdf</string>
+
+    <string name="justice_of_the_peace_claim">Мировому судье</string>
+    <string name="claimant_claim">Взыскатель</string>
+    <string name="address_claim">адрес</string>
+    <string name="debtor_claim">Должник</string>
+    <string name="place_of_residence_claim">место жительства</string>
+    <string name="place_of_work_claim">место работы</string>
+    <string name="id_claim">идентификатор</string>
+    <string name="claim_title_claim">Заявление</string>
+    <string name="claim_subtitle_claim">о вынесении судебного приказа о взыскании задолженности по оплате жилищно-коммунальных услуг</string>
+</resources>
